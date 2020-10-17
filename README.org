@@ -1,0 +1,4 @@
+#+TITLE: Readme
+
+A basic CLI project in python, based on [[https://cjolowicz.github.io/posts/hypermodern-python-01-setup/][Hypermodern Python · Claudio Jolowicz]] to
+learn the best python practices
