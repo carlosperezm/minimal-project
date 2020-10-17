@@ -3,6 +3,12 @@ name = "minimal-project"
 version = "0.1.0"
 description = "Modern Python practices"
 authors = ["Carlos Perez <carlosperezmolano@gmail.com>"]
+license = "MIT"
+readme = "README.org"
+homepage = "https://github.com/carlosperezm/minimal-project"
+repository = "https://github.com/carlosperezm/minimal-project"
+keywords = ["modern", "python"]
+
 
 [tool.poetry.dependencies]
 python = "^3.7"
